@@ -1,12 +1,11 @@
 package com.example.demo.controller;
 
-//import com.example.demo.dto.*;
 import com.example.demo.dto.RegisterRequest;
 import com.example.demo.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-//import com.example.demo.dto_a.RegisterRequest;
+import com.example.demo.payload.RegisterRequest;
 
 
 @RestController

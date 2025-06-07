@@ -1,4 +1,4 @@
-package com.example.demo.dto_a;
+package com.example.demo.payload;
 
 
 public class AuthResponse {
